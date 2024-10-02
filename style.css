@@ -1,0 +1,11 @@
+.clicker {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.list-item {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
